@@ -1,2 +1,2 @@
 # python-simple-exerc
-Simple exercises
+Hello everybody, these are simple exercises made in Python for the Universidad Metropolitana para la Educacion y el Trabajo
